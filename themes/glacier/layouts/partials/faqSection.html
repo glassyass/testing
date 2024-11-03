@@ -1,0 +1,37 @@
+{{ $noPadding := .Params.noPadding }}
+{{ $faqDescription := .Params.faqDescription }}
+
+{{ with .Site.Data.pages.faq}}
+{{ if .enable }}
+
+{{ "<!-- Faq Section -->" | safeHTML }}
+<div class="faq-section {{ if eq $noPadding "show" }} pt-0 pb-0 {{ end }}">
+  <div class="container">
+    <div class="row">
+
+        {{ if eq $faqDescription "show" }}
+        <div class="faq-description">
+            <h2>{{ .title }}</h2>
+            {{ .text | safeHTML }}
+        </div>
+        {{ end }}
+
+        {{ range .accordion }}
+        <div class="col-md-6">
+        <div class="accordion-box">
+            <button>{{ .title }}<span class="accordion__icon"></span></button>
+            <main>
+                <div class="accordion__item-content">
+                    {{ .text | safeHTML }}
+                </div>
+            </main>
+        </div>
+        </div>
+        {{ end }}
+
+    </div>
+  </div>
+</div>
+
+{{ end }}
+{{ end }}

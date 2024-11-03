@@ -1,0 +1,73 @@
+{{ $styleAboutMe := .Params.styleAboutMe }}
+
+{{ "<!-- About Me Section -->" | safeHTML }}
+<section class="about-me-section">
+
+    <div class="container">
+        <div class="row">
+
+        {{ with .Site.Data.about.aboutMe }}
+        {{ if .enable }}
+
+        {{ if eq $styleAboutMe "text" }}
+
+            <div class="col-md-6">
+                <div class="about-description">
+                    {{ .text2 | safeHTML }}
+                    <img src="{{ .signature | absURL }}"><br>
+                    <em>{{ .name }}</em><br>
+                    <em>{{ .date }}</em>
+                </div>
+            </div>
+      
+            <div class="col-md-6">
+                <div class="about-skillbar">
+                    {{ range .skillbar }}
+                    <div class="skillbar" data-percent="{{ .num }}">
+                        <div class="skillbar-title">
+                            <h5>{{ .title }}</h5>
+                        </div>
+                        <div class="skillbar-bar"></div>
+                        <div class="skill-bar-percent">{{ .num }}</div>
+                    </div>
+                    {{ end }}
+                </div>
+            </div>
+
+        {{ end }}
+
+        {{ if eq $styleAboutMe "image" }}
+
+            <div class="col-md-6">
+                <img src="{{ .profileImage | absURL }}">
+            </div>
+      
+            <div class="col-md-6">
+                <div class="about-description">
+                    <h5>{{ .title1 }}</h5>
+                    {{ .text1 | safeHTML }}
+                    <h5>{{ .title2 }}</h5>
+                    {{ .text2 | safeHTML }}
+                    <h5>{{ .title3 }}</h5><br>
+                 </div>
+                <div class="about-skillbar">
+                    {{ range .skillbar }}
+                    <div class="skillbar" data-percent="{{ .num }}">
+                        <div class="skillbar-title">
+                            <h5>{{ .title }}</h5>
+                        </div>
+                        <div class="skillbar-bar"></div>
+                        <div class="skill-bar-percent">{{ .num }}</div>
+                    </div>
+                    {{ end }}
+                </div>
+            </div>
+
+        {{ end }}
+
+        {{ end }}
+        {{ end }}
+
+        </div>
+    </div>
+</section>

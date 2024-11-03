@@ -1,0 +1,25 @@
+{{ with .Site.Data.pages.actionImage}}
+{{ if .enable }}
+
+{{ "<!-- Action Image Section -->" | safeHTML }}
+<div class="action-image-section">
+  <div class="container">
+    <div class="row align-items-center">
+        <div class="col-md-7">
+                <h2>{{ .title }}</h2>
+                {{ .text | safeHTML }}
+                <a href="{{ .buttonLink | absLangURL }}" class="action-button" rel="noopener">{{ .buttonText }} <i class="fa-solid fa-angle-right"></i></a>
+           
+        </div>
+
+        <div class="col-md-5 text-center">
+            <img src="{{ .profileImage | absURL }}">
+            
+        </div>
+
+    </div>
+  </div>
+</div>
+
+{{ end }}
+{{ end }}

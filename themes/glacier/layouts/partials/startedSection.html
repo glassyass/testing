@@ -1,0 +1,27 @@
+{{ with .Site.Data.pages.started}}
+{{ if .enable }}
+
+{{ "<!-- Started Section -->" | safeHTML }}
+<div class="started-section">
+  <div class="container">
+    <div class="row align-items-center">
+        <div class="col-md-7">
+            <div class="started-description">
+                <h2>{{ .title }}</h2>
+                {{ .text | safeHTML }}
+                <a href="{{ .buttonLink | absLangURL }}" class="started-button" rel="noopener">{{ .buttonText }} <i class="fa-solid fa-angle-right"></i></a>
+            </div>
+           
+        </div>
+
+        <div class="col-md-5 text-center">
+            <img src="{{ .profileImage | absURL }}">
+            
+        </div>
+
+    </div>
+  </div>
+</div>
+
+{{ end }}
+{{ end }}

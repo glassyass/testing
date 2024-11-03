@@ -1,0 +1,17 @@
+{{ with .Site.Data.home.description }}
+{{ if .enable }}
+
+{{ "<!-- Description Section -->" | safeHTML }}
+<div class="description-section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <h2>{{ .title | safeHTML }}</h2>
+        {{ .column1 | safeHTML }}
+      </div>
+    </div>
+  </div>
+</div>
+
+{{ end }}
+{{ end }}

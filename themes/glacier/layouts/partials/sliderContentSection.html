@@ -1,0 +1,77 @@
+{{ $duration := .Params.duration }}
+{{ $arrows := .Params.arrows }}
+
+{{ with .Site.Data.home.content_slider }}
+{{ if .enable }}
+
+{{ "<!-- Slider Section -->" | safeHTML }}
+<section class="slider-section">
+
+    <rs-module-wrap id="rev_slider_2_1_wrapper" data-duration="{{$duration}}" data-arrows="{{$arrows}}" data-alias="glacier-2" data-source="gallery" style="visibility:hidden;background:transparent;padding:0;margin:0px auto;margin-top:0;margin-bottom:0;">
+        <rs-module id="rev_slider_2_1" data-version="6.6.10">
+        <rs-slides style="overflow: hidden; position: absolute;">
+
+            {{ range $index, $val := .slides }}
+
+            <rs-slide style="position: absolute;" data-key="rs-{{ $index }}" data-title="Slide" data-anim="ms:600;" data-in="o:0;" data-out="a:false;">
+                <img src="{{ .image | absURL }}" alt="{{ .title }}" title="{{ .title }}" width="2450" height="900" class="rev-slidebg tp-rs-img" data-bg="p:30% 80%;" data-no-retina>
+<!--
+                --><rs-layer
+                    id="slider-2-slide-{{ $index }}-layer-1" 
+                    class="rs-selectable"
+                    data-type="text"
+                    data-color="#000000"
+                    data-rsp_ch="on"
+                    data-xy="xo:66px,66px,66px,10px;y:m;yo:-95px,-95px,-95px,-59px;"
+                    data-text="s:30;l:35;ls:1px;a:inherit;"
+                    data-frame_0="tp:600;"
+                    data-frame_1="tp:600;sR:10;"
+                    data-frame_999="o:0;tp:600;st:w;sR:4690;"
+                    style="z-index:5;font-family:'Dosis';"
+                >{{ .title | safeHTML }}
+                </rs-layer><!--
+
+                --><rs-layer
+                    id="slider-2-slide-{{ $index }}-layer-3" 
+                    class="rs-selectable"
+                    data-type="text"
+                    data-color="#000000"
+                    data-rsp_ch="on"
+                    data-xy="xo:68px,68px,69px,9px;yo:337px,337px,258px,291px;"
+                    data-text="s:15;l:28;a:inherit;"
+                    data-frame_0="tp:600;"
+                    data-frame_1="tp:600;sR:10;"
+                    data-frame_999="o:0;tp:600;st:w;sR:4690;"
+                    style="z-index:6;font-family:'Source Sans 3';"
+                >{{ .description | safeHTML }}
+
+
+                </rs-layer><!--
+
+                --><rs-layer
+                    id="slider-2-slide-{{ $index }}-layer-5" 
+                    class="rev-btn rs-selectable"
+                    data-type="button"
+                    data-xy="xo:67px,67px,68px,68px;yo:468px,468px,369px,369px;"
+                    data-text="s:11,11,11,14;ls:2px;a:inherit;"
+                    data-vbility="t,t,t,f"
+                    data-actions='o:click;a:simplelink;target:_self;url:{{ .buttonLink | absLangURL }};'
+                    data-rsp_bd="off"
+                    data-padding="t:8;r:23;l:23;b:8;"
+                    data-border="bos:solid;boc:rgba(0,0,0,1);bow:1px,1px,1px,1px;"
+                    data-frame_0="tp:600;"
+                    data-frame_1="tp:600;sR:10;"
+                    data-frame_999="o:0;tp:600;st:w;sR:4690;"
+                    style="z-index:7;;font-family:'Dosis';text-transform:uppercase;cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;"
+                >{{ .buttonText }}
+                </rs-layer><!--
+-->						</rs-slide>
+
+            {{ end }}
+
+        </rs-slides>
+    </rs-module>
+</section>
+
+{{ end }}
+{{ end }}

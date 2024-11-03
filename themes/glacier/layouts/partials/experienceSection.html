@@ -1,0 +1,27 @@
+{{ "<!-- Experience Section -->" | safeHTML }}
+<section class="experience-section">
+
+    <div class="container">
+        <div class="row gy-5">
+
+            {{ with .Site.Data.about.experience }}
+            {{ if .enable }}
+                    {{ range .items }}
+                    <div class="col-md-3">
+                        <div class="experience-box">
+                            <div class="icon">
+                                <i aria-hidden="true" class="{{ .icon }}"></i>
+                            </div>
+                            <h4>{{ .title }}</h4>
+                            <div class="timer">
+                                <span class="number">{{ .num }}</span>
+                            </div>
+                        </div>
+                    </div>
+                    {{ end }}
+            {{ end }}
+            {{ end }}
+
+        </div>
+    </div>    
+</section>    

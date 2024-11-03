@@ -1,0 +1,46 @@
+{{ $noPadding := .Params.noPadding }}
+{{ $pricingDescription := .Params.pricingDescription }}
+
+{{ with .Site.Data.pages.pricing}}
+{{ if .enable }}
+
+{{ "<!-- Pricing Section -->" | safeHTML }}
+<div class="pricing-section {{ if eq $noPadding "show" }} pt-0 pb-0 {{ end }}">
+  <div class="container">
+    <div class="row gy-5">
+
+        {{ if eq $pricingDescription "show" }}
+        <div class="pricing-description">
+            <h2>{{ .title }}</h2>
+            {{ .text | safeHTML }}
+        </div>
+        {{ end }}
+
+        {{ range .items }}
+        <div class="col-md-4">
+        <div class="pricing-box">
+            <div class="card-header">
+                <h2 class="card-heading">{{ .title }}</h2>
+                {{ .text | safeHTML }}
+            </div>
+            <hr>
+            <div class="card-body">
+                <ul>
+                    {{ range .list }}
+                    <li><i aria-hidden="true" class="{{ .icon }}"></i> {{ .title }}</li>
+                    {{ end }}
+                </ul>
+                <hr>
+                <h3>{{ .price }}</h3>
+                <a href="{{ .buttonLink | absLangURL }}" class="pricing-button" rel="noopener">{{ .buttonText }}</a>
+            </div>
+        </div>
+        </div>
+        {{ end }}
+
+    </div>
+  </div>
+</div>
+
+{{ end }}
+{{ end }}

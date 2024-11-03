@@ -1,0 +1,29 @@
+{{ "<!-- Team Section -->" | safeHTML }}
+<section class="team-section">
+
+    <div class="container">
+        <div class="row">
+
+            {{ with .Site.Data.about.team }}
+            {{ if .enable }}
+            <h3 class="title-section">{{ .title }}</h3>
+                {{ range .member }}
+                <div class="col-md-4">
+                <div class="team-box">
+                    <img src="{{ .image | absURL }}" alt="{{ .title }}">
+                    <h2>{{ .title }}</h2>
+                    <p>{{ .text | safeHTML }}</p>
+                    <div class="social-icons">
+                    <ul>
+                    {{ range .socialIcons }}   
+                        <li><a href="{{ .url }}" target="_blank" title="{{ .title }}"><i aria-hidden="true" class="{{ .icon }}"></i></a></li>
+                    {{ end }}
+                    </ul>
+                    </div>
+                </div>
+                </div>
+                {{ end }}
+            {{ end }}
+            {{ end }}
+
+</section>
