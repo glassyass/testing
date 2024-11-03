@@ -1,0 +1,90 @@
+# General Settings
+title = "FrostFire Images"
+baseURL = "https://frostfireimages.ca/"
+
+languageCode = "en-us"
+theme = "glacier"
+resourceDir = "resources"
+paginate = 5
+summaryLength = 50
+DefaultContentLanguage = "en" # Site language. Available translations in the theme's `/i18n` directory.
+
+
+# Menu Settings
+[menu]
+[[menu.main]]
+    identifier = "slider-home"
+    name = "Portfolio"
+    url = "/slider-home/"
+  weight = 2
+[[menu.main]]
+    identifier = "about-me-v2"
+    name = "About"
+    url = "/about-me-v2/"
+    weight = 3
+[[menu.main]]
+    identifier = "blog-creative"
+    name = "Shop"
+    url = "/blog-creative/"
+    weight = 4
+[[menu.main]]
+  identifier = "contact-v1"
+  name = "Contact"
+  url = "/contact-v1/"
+  weight = 5
+ 
+
+# Main Settings
+[params]
+defaultLogo = "FrostFires"
+defaultKeywords = ["clean", "minimal", "blog", "responsive", "google analytics", "bootstrap", "portfolio", "personal", "modern", "parallax", "hugo theme", "creative"]
+defaultDescription = "Frost Fire Images"
+dateFormat = "January 2, 2006"
+authorName = "Mountain-Themes"
+disqusComments = "" #YOUR DISQUS COMMENTS SHORTNAME
+formspreeFormID = "" #YOUR FORMSPREE FORM ID
+reCAPTCHAKey = "" #YOUR reCAPTCHA v2 key
+googleMapsApiKey = "" #YOUR GOOGLE API KEY
+
+# Sidebar Settings
+[params.sidebar]
+enable = 1 #SIDEBAR SHOW: [ 1 - yes, 0 - no ] For General page "Blog"
+position = "right" #SIDEBAR POSITION: [ left, right ] For General page "Blog"
+search = 1 #SIDEBAR SEARCH WIDGET: [ 1 - yes, 0 - no ]
+latestPosts = 1 #SIDEBAR LATEST POSTS WIDGET: [ 1 - yes, 0 - no ]
+categories = 1 #SIDEBAR CATEGORIES TAXONOMY WIDGET: [ 1 - yes, 0 - no ]
+tags = 1 #SIDEBAR TAG TAXONOMY WIDGET: [ 1 - yes, 0 - no ]
+
+
+[params.subscribe]
+subscribe = 1 #SIDEBAR SUBSCRIBE WIDGET: [ 1 - yes, 0 - no ]
+mailChimpURL = ""  # Example MailChimp url: http://xxx.xxx.list-manage.com/subscribe/post?u=xxx&id=xxx
+
+# Portfolio Settings (Filter)
+[params.portfolio]
+[[params.portfolio.filters]]
+name = "Monster Energy 2019"
+slug = "Monster 2019"
+[[params.portfolio.filters]]
+name = "Action Sports"
+slug = "Action Sports"
+[[params.portfolio.filters]]
+name = "Landscapes"
+slug = "Landscapes"
+[[params.portfolio.filters]]
+name = "Nature"
+slug = "Nature"
+
+# Footer Settings
+[params.footer]
+copyright = "Glacier © 2024. Design & Coded by <a href='http://themeforest.net/user/Mountain-Themes' target='_blank'> Mountain-Themes.</a>"
+
+
+# Sitemap Settings
+[sitemap]
+changefreq = "monthly"
+priority = 0.5
+filename = "sitemap.xml"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]

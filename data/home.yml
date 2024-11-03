@@ -1,0 +1,59 @@
+### Sections content configuration file
+### Here you can find all content in all pre-build sections
+
+### Parallax [parallaxSection]
+parallax:
+  enable: true
+  image: "/images/slider/no8.jpg"
+  title: ""
+  effectTitle: "none" # Full list effects you can find in documentation theme
+  parallaxVideo: "hide" # If "parallaxVideo" is "show"
+  parallaxVideoLink: "" # Support YouTube and Vimeo video 
+
+### Description [ descriptionSection ]
+description:
+  enable: true
+  title: "FrostFire Images"
+  column1: "
+    .<br>
+    .<br>
+    
+  "
+
+### Main Slider [ mainSlider ]
+main_slider:
+  enable: true
+  slides:
+    - title: ""
+      image: "/images/ok.jpg"
+
+    - title: ""
+      image: "/images/poop.jpg"
+    
+    - title: ""
+      image: "/images/new.jpg"
+    
+    - title: ""
+      image: "/images/1.jpg"
+
+### Content Slider [ contentSlider ]
+content_slider:
+  enable: false
+  slides:
+    - title: "WE'RE WILD PEOPLE <br>SEARCHING FOR THE FREEDOM"
+      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br>Soluta at rerum, quam eos porro corrupti laboriosam! Non quo <br>laudantium, laboriosam nam molestias, adipisci in impedit"
+      image: "/images/slider/content-slide-1.jpg"
+      buttonText: "Join With The Community"
+      buttonLink: "/contact-v2/" 
+
+    - title: "AFTER SET IN MULTIPLY <BR>THE THERE LIVING YIELDING"
+      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br>Soluta at rerum, quam eos porro corrupti laboriosam! Non quo <br>laudantium, laboriosam nam molestias, adipisci in impedit"
+      image: "/images/slider/content-slide-2.jpg"
+      buttonText: "Join With The Community"
+      buttonLink: "/contact-v2/" 
+    
+    - title: "SHE'D THE HERB HEAVEN <BR>WINGED YOU'LL FRUIT YEARS"
+      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br>Soluta at rerum, quam eos porro corrupti laboriosam! Non quo <br>laudantium, laboriosam nam molestias, adipisci in impedit"
+      image: "/images/slider/content-slide-3.jpg"
+      buttonText: "Join With The Community"
+      buttonLink: "/contact-v2/" 
