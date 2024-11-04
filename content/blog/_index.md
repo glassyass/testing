@@ -8,7 +8,7 @@ parallax:
   enable: false
   image: "/images/parallax-10.jpg"
   title: "Blog"
-  effectTitle: "fadeIn" # Full list effects you can find in documentation theme
+  effectTitle: "slideInLeft" # Full list effects you can find in documentation theme
   parallaxVideo: "hide" # If "parallaxVideo" is "show"
   parallaxVideoLink: "" # Support YouTube and Vimeo video 
 

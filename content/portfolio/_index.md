@@ -8,8 +8,8 @@ parallax:
   enable: true
   image: "images/slider/no4.jpg"
   title: "Portfolio"
-  effectTitle: "fadeIn" # Full list effects you can find in documentation theme
-  parallaxVideo: "hide" # If "parallaxVideo" is "show"
+  effectTitle: "slideInLeft" # Full list effects you can find in documentation theme
+  parallaxVideo: "show" # If "parallaxVideo" is "show"
   parallaxVideoLink: "" # Support YouTube and Vimeo video 
 
 # Portfolio

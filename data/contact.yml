@@ -4,7 +4,7 @@
 ### Contact [ contactSection ]
 contact:
   enable: true
-  title: "Contact Information"
+  title: "Contact"
   description: <p>I’d love to hear from you! Whether you have questions about my photography, want to discuss potential collaborations, or are interested in my services for events or projects, feel free to reach out. I’m open to exploring new ideas and partnerships. You can connect with me through social media or send a message via the contact form on this page. I look forward to connecting and seeing how we can work together!</p>
 
   contactInformation:

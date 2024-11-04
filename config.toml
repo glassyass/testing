@@ -42,8 +42,8 @@ defaultDescription = "Frost Fire Images"
 dateFormat = "January 2, 2006"
 authorName = "Mountain-Themes"
 disqusComments = "" #YOUR DISQUS COMMENTS SHORTNAME
-formspreeFormID = "" #YOUR FORMSPREE FORM ID
-reCAPTCHAKey = "" #YOUR reCAPTCHA v2 key
+formspreeFormID = "https://formspree.io/f/xeoqayoq" #YOUR FORMSPREE FORM ID
+reCAPTCHAKey = "6LdJWXUqAAAAADqn1_5lx5GsGG6R_ZP38GML8U6Q" #YOUR reCAPTCHA v2 key
 googleMapsApiKey = "" #YOUR GOOGLE API KEY
 
 # Sidebar Settings
@@ -58,7 +58,7 @@ tags = 1 #SIDEBAR TAG TAXONOMY WIDGET: [ 1 - yes, 0 - no ]
 
 [params.subscribe]
 subscribe = 1 #SIDEBAR SUBSCRIBE WIDGET: [ 1 - yes, 0 - no ]
-mailChimpURL = ""  # Example MailChimp url: http://xxx.xxx.list-manage.com/subscribe/post?u=xxx&id=xxx
+mailChimpURL = "https://formspree.io/f/xeoqayoq"  # Example MailChimp url: http://xxx.xxx.list-manage.com/subscribe/post?u=xxx&id=xxx
 
 # Portfolio Settings (Filter)
 [params.portfolio]
@@ -77,7 +77,7 @@ slug = "Nature"
 
 # Footer Settings
 [params.footer]
-copyright = "Glacier © 2024. Design & Coded by <a href='http://themeforest.net/user/Mountain-Themes' target='_blank'> Mountain-Themes.</a>"
+copyright = "Edited by J "
 
 
 # Sitemap Settings

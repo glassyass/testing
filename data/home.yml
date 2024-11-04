@@ -4,9 +4,9 @@
 ### Parallax [parallaxSection]
 parallax:
   enable: true
-  image: "/images/slider/no8.jpg"
+  image: "/images/slider/no4.jpg"
   title: ""
-  effectTitle: "none" # Full list effects you can find in documentation theme
+  effectTitle: "slideInLeft" # Full list effects you can find in documentation theme
   parallaxVideo: "hide" # If "parallaxVideo" is "show"
   parallaxVideoLink: "" # Support YouTube and Vimeo video 
 

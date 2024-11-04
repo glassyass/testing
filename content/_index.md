@@ -9,8 +9,8 @@ sections:
 # Parallax
 parallaxImage: images/slider/no4.jpg
 parallaxTitle: ""
-effectTitle: "none" # Full list effects you can find in documentation theme
-parallaxVideo: "hide" # Support YouTube and Vimeo video 
+effectTitle: "slideInLeft" # Full list effects you can find in documentation theme
+parallaxVideo: "show" # Support YouTube and Vimeo video 
 parallaxVideoLink: "" # If "parallaxVideo" is "show"
 
 # Portfolio
