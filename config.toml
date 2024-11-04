@@ -37,12 +37,12 @@ DefaultContentLanguage = "en" # Site language. Available translations in the the
 # Main Settings
 [params]
 defaultLogo = "FrostFires"
-defaultKeywords = ["clean", "minimal", "blog", "responsive", "google analytics", "bootstrap", "portfolio", "personal", "modern", "parallax", "hugo theme", "creative"]
+defaultKeywords = ["Photography", "Professional Photographer", "Art", "Action Sports Photography", "google analytics", "Action Sports", "Photography portfolio", "High quality Poster", "Landscapes", "Wildlife", "Skateboarding", "Frostfireimages"]
 defaultDescription = "Frost Fire Images"
 dateFormat = "January 2, 2006"
 authorName = "Mountain-Themes"
 disqusComments = "" #YOUR DISQUS COMMENTS SHORTNAME
-formspreeFormID = "https://formspree.io/f/xeoqayoq" #YOUR FORMSPREE FORM ID
+formspreeFormID = "xeoqayoq" #YOUR FORMSPREE FORM ID
 reCAPTCHAKey = "6LdJWXUqAAAAADqn1_5lx5GsGG6R_ZP38GML8U6Q" #YOUR reCAPTCHA v2 key
 googleMapsApiKey = "" #YOUR GOOGLE API KEY
 
