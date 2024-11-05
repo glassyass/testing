@@ -63,11 +63,14 @@ mailChimpURL = "https://formspree.io/f/xeoqayoq"  # Example MailChimp url: http:
 # Portfolio Settings (Filter)
 [params.portfolio]
 [[params.portfolio.filters]]
-name = "Monster Energy 2019"
-slug = "Monster 2019"
+name = "Sponsored-Events"
+slug = "Sponsored-Events"
 [[params.portfolio.filters]]
-name = "Action Sports"
-slug = "Action Sports"
+name = "Action-Sports"
+slug = "Action-Sports"
+[[params.portfolio.filters]]
+name = "Industrial"
+slug = "Industrial"
 [[params.portfolio.filters]]
 name = "Landscapes"
 slug = "Landscapes"
