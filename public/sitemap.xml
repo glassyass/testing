@@ -132,57 +132,157 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/portfolio/action/</loc>
+    <loc>http://localhost:1313/portfolio/actionsportsmd/</loc>
     <lastmod>2023-08-10T20:18:01+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/portfolio/dream/</loc>
+    <loc>http://localhost:1313/portfolio/as10/</loc>
     <lastmod>2023-08-10T20:18:01+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/portfolio/hand/</loc>
+    <loc>http://localhost:1313/portfolio/as4/</loc>
     <lastmod>2023-08-10T20:18:01+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/portfolio/logo/</loc>
+    <loc>http://localhost:1313/portfolio/as6/</loc>
     <lastmod>2023-08-10T20:18:01+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/portfolio/monster-energy/</loc>
+    <loc>http://localhost:1313/portfolio/as7/</loc>
     <lastmod>2023-08-10T20:18:01+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/portfolio/music-album/</loc>
+    <loc>http://localhost:1313/portfolio/as8/</loc>
     <lastmod>2023-08-10T20:18:01+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/portfolio/package/</loc>
+    <loc>http://localhost:1313/portfolio/as9/</loc>
     <lastmod>2023-08-10T20:18:01+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/portfolio/phone/</loc>
+    <loc>http://localhost:1313/portfolio/frontpagelandscapes/</loc>
     <lastmod>2023-08-10T20:18:01+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/portfolio/photo/</loc>
+    <loc>http://localhost:1313/portfolio/indust10/</loc>
     <lastmod>2023-08-10T20:18:01+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/portfolio/tree/</loc>
+    <loc>http://localhost:1313/portfolio/indust2/</loc>
     <lastmod>2023-08-10T20:18:01+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/portfolio/cup/</loc>
+    <loc>http://localhost:1313/portfolio/indust4/</loc>
+    <lastmod>2023-08-10T20:18:01+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/indust5/</loc>
+    <lastmod>2023-08-10T20:18:01+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/indust6/</loc>
+    <lastmod>2023-08-10T20:18:01+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/indust7/</loc>
+    <lastmod>2023-08-10T20:18:01+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/indust8/</loc>
+    <lastmod>2023-08-10T20:18:01+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/indust9/</loc>
+    <lastmod>2023-08-10T20:18:01+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/land2/</loc>
+    <lastmod>2023-08-10T20:18:01+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/landscapes/</loc>
+    <lastmod>2023-08-10T20:18:01+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/landscapes1/</loc>
+    <lastmod>2023-08-10T20:18:01+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/landscapes3/</loc>
+    <lastmod>2023-08-10T20:18:01+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/landy/</loc>
+    <lastmod>2023-08-10T20:18:01+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/nature10/</loc>
+    <lastmod>2023-08-10T20:18:01+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/nature6/</loc>
+    <lastmod>2023-08-10T20:18:01+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/nature7/</loc>
+    <lastmod>2023-08-10T20:18:01+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/nature8/</loc>
+    <lastmod>2023-08-10T20:18:01+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/nature9/</loc>
+    <lastmod>2023-08-10T20:18:01+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/se10/</loc>
+    <lastmod>2023-08-10T20:18:01+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/se6/</loc>
+    <lastmod>2023-08-10T20:18:01+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/se7/</loc>
+    <lastmod>2023-08-10T20:18:01+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/se8/</loc>
+    <lastmod>2023-08-10T20:18:01+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/se9/</loc>
     <lastmod>2023-08-10T20:18:01+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -192,73 +292,118 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/portfolio/tcup/</loc>
+    <loc>http://localhost:1313/portfolio/as1/</loc>
     <lastmod>2023-08-09T20:18:01+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/portfolio/c/</loc>
+    <loc>http://localhost:1313/portfolio/as2/</loc>
     <lastmod>2023-08-09T20:18:01+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/portfolio/pei/</loc>
+    <loc>http://localhost:1313/portfolio/as3/</loc>
+    <lastmod>2023-08-09T20:18:01+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/indust/</loc>
+    <lastmod>2023-08-09T20:18:01+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/industrial1/</loc>
+    <lastmod>2023-08-09T20:18:01+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/land1/</loc>
+    <lastmod>2023-08-09T20:18:01+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/land6/</loc>
+    <lastmod>2023-08-09T20:18:01+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/land7/</loc>
+    <lastmod>2023-08-09T20:18:01+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/land9/</loc>
+    <lastmod>2023-08-09T20:18:01+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/nature1/</loc>
+    <lastmod>2023-08-09T20:18:01+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/nature2/</loc>
+    <lastmod>2023-08-09T20:18:01+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/nature3/</loc>
+    <lastmod>2023-08-09T20:18:01+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/nature4/</loc>
+    <lastmod>2023-08-09T20:18:01+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/nature5/</loc>
+    <lastmod>2023-08-09T20:18:01+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/se1/</loc>
+    <lastmod>2023-08-09T20:18:01+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/se12/</loc>
+    <lastmod>2023-08-09T20:18:01+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/se13/</loc>
+    <lastmod>2023-08-09T20:18:01+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/se14/</loc>
+    <lastmod>2023-08-09T20:18:01+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/se2/</loc>
+    <lastmod>2023-08-09T20:18:01+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/se3/</loc>
+    <lastmod>2023-08-09T20:18:01+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/se4/</loc>
+    <lastmod>2023-08-09T20:18:01+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/se5/</loc>
+    <lastmod>2023-08-09T20:18:01+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/land/</loc>
     <lastmod>2023-08-08T20:18:01+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/portfolio/da/</loc>
-    <lastmod>2023-08-08T20:18:01+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/portfolio/d/</loc>
-    <lastmod>2023-08-07T20:18:01+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/portfolio/treeee/</loc>
-    <lastmod>2023-08-06T20:18:01+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/portfolio/p/</loc>
-    <lastmod>2023-08-05T20:18:01+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/portfolio/lo/</loc>
-    <lastmod>2023-08-04T20:18:01+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/portfolio/m/</loc>
-    <lastmod>2023-08-03T20:18:01+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/portfolio/b/</loc>
-    <lastmod>2023-08-02T20:18:01+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/portfolio/pho/</loc>
-    <lastmod>2023-08-01T20:18:01+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/portfolio/h/</loc>
-    <lastmod>2023-07-31T20:18:01+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/portfolio/pack/</loc>
-    <lastmod>2023-07-30T20:18:01+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/portfolio/ph/</loc>
-    <lastmod>2023-07-29T20:18:01+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>

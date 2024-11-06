@@ -115,177 +115,380 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/portfolio/action/</link>
+      <link>http://localhost:1313/portfolio/actionsportsmd/</link>
       <pubDate>Thu, 10 Aug 2023 20:18:01 +0300</pubDate>
-      <guid>http://localhost:1313/portfolio/action/</guid>
+      <guid>http://localhost:1313/portfolio/actionsportsmd/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/portfolio/dream/</link>
+      <link>http://localhost:1313/portfolio/as10/</link>
       <pubDate>Thu, 10 Aug 2023 20:18:01 +0300</pubDate>
-      <guid>http://localhost:1313/portfolio/dream/</guid>
+      <guid>http://localhost:1313/portfolio/as10/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/portfolio/hand/</link>
+      <link>http://localhost:1313/portfolio/as4/</link>
       <pubDate>Thu, 10 Aug 2023 20:18:01 +0300</pubDate>
-      <guid>http://localhost:1313/portfolio/hand/</guid>
+      <guid>http://localhost:1313/portfolio/as4/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/portfolio/logo/</link>
+      <link>http://localhost:1313/portfolio/as6/</link>
       <pubDate>Thu, 10 Aug 2023 20:18:01 +0300</pubDate>
-      <guid>http://localhost:1313/portfolio/logo/</guid>
+      <guid>http://localhost:1313/portfolio/as6/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/portfolio/monster-energy/</link>
+      <link>http://localhost:1313/portfolio/as7/</link>
       <pubDate>Thu, 10 Aug 2023 20:18:01 +0300</pubDate>
-      <guid>http://localhost:1313/portfolio/monster-energy/</guid>
+      <guid>http://localhost:1313/portfolio/as7/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/portfolio/music-album/</link>
+      <link>http://localhost:1313/portfolio/as8/</link>
       <pubDate>Thu, 10 Aug 2023 20:18:01 +0300</pubDate>
-      <guid>http://localhost:1313/portfolio/music-album/</guid>
+      <guid>http://localhost:1313/portfolio/as8/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/portfolio/package/</link>
+      <link>http://localhost:1313/portfolio/as9/</link>
       <pubDate>Thu, 10 Aug 2023 20:18:01 +0300</pubDate>
-      <guid>http://localhost:1313/portfolio/package/</guid>
+      <guid>http://localhost:1313/portfolio/as9/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/portfolio/phone/</link>
+      <link>http://localhost:1313/portfolio/frontpagelandscapes/</link>
       <pubDate>Thu, 10 Aug 2023 20:18:01 +0300</pubDate>
-      <guid>http://localhost:1313/portfolio/phone/</guid>
+      <guid>http://localhost:1313/portfolio/frontpagelandscapes/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/portfolio/photo/</link>
+      <link>http://localhost:1313/portfolio/indust10/</link>
       <pubDate>Thu, 10 Aug 2023 20:18:01 +0300</pubDate>
-      <guid>http://localhost:1313/portfolio/photo/</guid>
+      <guid>http://localhost:1313/portfolio/indust10/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/portfolio/tree/</link>
+      <link>http://localhost:1313/portfolio/indust2/</link>
       <pubDate>Thu, 10 Aug 2023 20:18:01 +0300</pubDate>
-      <guid>http://localhost:1313/portfolio/tree/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cups</title>
-      <link>http://localhost:1313/portfolio/cup/</link>
-      <pubDate>Thu, 10 Aug 2023 20:18:01 +0300</pubDate>
-      <guid>http://localhost:1313/portfolio/cup/</guid>
+      <guid>http://localhost:1313/portfolio/indust2/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/portfolio/tcup/</link>
+      <link>http://localhost:1313/portfolio/indust4/</link>
+      <pubDate>Thu, 10 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/indust4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/indust5/</link>
+      <pubDate>Thu, 10 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/indust5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/indust6/</link>
+      <pubDate>Thu, 10 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/indust6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/indust7/</link>
+      <pubDate>Thu, 10 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/indust7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/indust8/</link>
+      <pubDate>Thu, 10 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/indust8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/indust9/</link>
+      <pubDate>Thu, 10 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/indust9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/land2/</link>
+      <pubDate>Thu, 10 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/land2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/landscapes/</link>
+      <pubDate>Thu, 10 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/landscapes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/landscapes1/</link>
+      <pubDate>Thu, 10 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/landscapes1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/landscapes3/</link>
+      <pubDate>Thu, 10 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/landscapes3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/landy/</link>
+      <pubDate>Thu, 10 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/landy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/nature10/</link>
+      <pubDate>Thu, 10 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/nature10/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/nature6/</link>
+      <pubDate>Thu, 10 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/nature6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/nature7/</link>
+      <pubDate>Thu, 10 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/nature7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/nature8/</link>
+      <pubDate>Thu, 10 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/nature8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/nature9/</link>
+      <pubDate>Thu, 10 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/nature9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/se10/</link>
+      <pubDate>Thu, 10 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/se10/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/se6/</link>
+      <pubDate>Thu, 10 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/se6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/se7/</link>
+      <pubDate>Thu, 10 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/se7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/se8/</link>
+      <pubDate>Thu, 10 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/se8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/se9/</link>
+      <pubDate>Thu, 10 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/se9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/as1/</link>
       <pubDate>Wed, 09 Aug 2023 20:18:01 +0300</pubDate>
-      <guid>http://localhost:1313/portfolio/tcup/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cactus</title>
-      <link>http://localhost:1313/portfolio/c/</link>
-      <pubDate>Wed, 09 Aug 2023 20:18:01 +0300</pubDate>
-      <guid>http://localhost:1313/portfolio/c/</guid>
+      <guid>http://localhost:1313/portfolio/as1/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/portfolio/pei/</link>
+      <link>http://localhost:1313/portfolio/as2/</link>
+      <pubDate>Wed, 09 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/as2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/as3/</link>
+      <pubDate>Wed, 09 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/as3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/indust/</link>
+      <pubDate>Wed, 09 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/indust/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/industrial1/</link>
+      <pubDate>Wed, 09 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/industrial1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/land1/</link>
+      <pubDate>Wed, 09 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/land1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/land6/</link>
+      <pubDate>Wed, 09 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/land6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/land7/</link>
+      <pubDate>Wed, 09 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/land7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/land9/</link>
+      <pubDate>Wed, 09 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/land9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/nature1/</link>
+      <pubDate>Wed, 09 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/nature1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/nature2/</link>
+      <pubDate>Wed, 09 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/nature2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/nature3/</link>
+      <pubDate>Wed, 09 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/nature3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/nature4/</link>
+      <pubDate>Wed, 09 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/nature4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/nature5/</link>
+      <pubDate>Wed, 09 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/nature5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/se1/</link>
+      <pubDate>Wed, 09 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/se1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/se12/</link>
+      <pubDate>Wed, 09 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/se12/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/se13/</link>
+      <pubDate>Wed, 09 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/se13/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/se14/</link>
+      <pubDate>Wed, 09 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/se14/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/se2/</link>
+      <pubDate>Wed, 09 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/se2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/se3/</link>
+      <pubDate>Wed, 09 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/se3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/se4/</link>
+      <pubDate>Wed, 09 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/se4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/se5/</link>
+      <pubDate>Wed, 09 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolio/se5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/land/</link>
       <pubDate>Tue, 08 Aug 2023 20:18:01 +0300</pubDate>
-      <guid>http://localhost:1313/portfolio/pei/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dance</title>
-      <link>http://localhost:1313/portfolio/da/</link>
-      <pubDate>Tue, 08 Aug 2023 20:18:01 +0300</pubDate>
-      <guid>http://localhost:1313/portfolio/da/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Bottles</title>
-      <link>http://localhost:1313/portfolio/d/</link>
-      <pubDate>Mon, 07 Aug 2023 20:18:01 +0300</pubDate>
-      <guid>http://localhost:1313/portfolio/d/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tree</title>
-      <link>http://localhost:1313/portfolio/treeee/</link>
-      <pubDate>Sun, 06 Aug 2023 20:18:01 +0300</pubDate>
-      <guid>http://localhost:1313/portfolio/treeee/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dream</title>
-      <link>http://localhost:1313/portfolio/p/</link>
-      <pubDate>Sat, 05 Aug 2023 20:18:01 +0300</pubDate>
-      <guid>http://localhost:1313/portfolio/p/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Logo</title>
-      <link>http://localhost:1313/portfolio/lo/</link>
-      <pubDate>Fri, 04 Aug 2023 20:18:01 +0300</pubDate>
-      <guid>http://localhost:1313/portfolio/lo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Music album</title>
-      <link>http://localhost:1313/portfolio/m/</link>
-      <pubDate>Thu, 03 Aug 2023 20:18:01 +0300</pubDate>
-      <guid>http://localhost:1313/portfolio/m/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>hi</title>
-      <link>http://localhost:1313/portfolio/b/</link>
-      <pubDate>Wed, 02 Aug 2023 20:18:01 +0300</pubDate>
-      <guid>http://localhost:1313/portfolio/b/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Photo</title>
-      <link>http://localhost:1313/portfolio/pho/</link>
-      <pubDate>Tue, 01 Aug 2023 20:18:01 +0300</pubDate>
-      <guid>http://localhost:1313/portfolio/pho/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hand</title>
-      <link>http://localhost:1313/portfolio/h/</link>
-      <pubDate>Mon, 31 Jul 2023 20:18:01 +0300</pubDate>
-      <guid>http://localhost:1313/portfolio/h/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Package</title>
-      <link>http://localhost:1313/portfolio/pack/</link>
-      <pubDate>Sun, 30 Jul 2023 20:18:01 +0300</pubDate>
-      <guid>http://localhost:1313/portfolio/pack/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Phone</title>
-      <link>http://localhost:1313/portfolio/ph/</link>
-      <pubDate>Sat, 29 Jul 2023 20:18:01 +0300</pubDate>
-      <guid>http://localhost:1313/portfolio/ph/</guid>
+      <guid>http://localhost:1313/portfolio/land/</guid>
       <description></description>
     </item>
     <item>
