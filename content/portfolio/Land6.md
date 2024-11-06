@@ -1,15 +1,14 @@
 ---
 # preview details
-title:
-date: 2023-08-10T20:18:01+03:00
-category: Action-Sports
-category_slug: Action-Sports
-image: images/.jpg
+title: 
+date: 2023-08-09T20:18:01+03:00
+category: Landscapes
+category_slug: Landscapes 
+image: images/0V0A1296.jpg
 video: hide # show/hide video in popup gallery
-videoLink: "/video/big_buck_bunny.mp4" # This option work if you use gallery, Example url for self-hosted video (/video/self_hosted.mp4). YouTube or Vimeo is support link.
+videoLink: "" # This option work if you use gallery, Example url for self-hosted video (/video/self_hosted.mp4). Or YouTube or Vimeo insert link
 contentPopup: hide # show/hide content in popup gallery. This option work if you use gallery.
 columns: 1 # If you want a media box to be 1, 2 or 3 columns wide
-
 
 # excerpt for alternative portfolio style
 excerpt: ""
@@ -26,16 +25,16 @@ parallax:
   parallaxVideoLink: "" # Support YouTube and Vimeo video 
 
 # variant style project
-style: 1 # 1 to 4
+style: 2 # 1 to 4
 
 # gallery project
 gallery:
   enable: true
   columns: 1 # 1 to 3
   items:
-      - image: "/images/portfolio/portfolio-item-1.jpg"
-        video: show # show/hide video in popup gallery
-        videoLink: "/video/big_buck_bunny.mp4" # Example url for self-hosted video (/video/self_hosted.mp4). Or YouTube or Vimeo insert link
+      - image: "/images/portfolio/portfolio-item-2.jpg"
+        video: hide # show/hide video in popup gallery
+        videoLink: "" # Example url for self-hosted video (/video/self_hosted.mp4). Or YouTube or Vimeo insert link
 
 # project description
 content:
@@ -51,13 +50,13 @@ details:
       value: John Smith
 
     - label: Client
-      value: Envato
+      value: Elon Musk
 
     - label: Project date
-      value: 31 December 2023
+      value: 10 December 2023
 
     - label: Project Location
-      value: California, USA
+      value: Melbourne, Australia
 
     - label: Website
       value: <a href="https://themeforest.net/user/mountain-themes" target="_blank">envato.com</a>

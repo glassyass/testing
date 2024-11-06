@@ -2,9 +2,9 @@
 # preview details
 title: 
 date: 2023-08-09T20:18:01+03:00
-category: Industrial
-category_slug: Industrial 
-image: images/Grain.jpg
+category: Landscapes
+category_slug: Landscapes 
+image: images/0V0A1253.jpg
 video: hide # show/hide video in popup gallery
 videoLink: "" # This option work if you use gallery, Example url for self-hosted video (/video/self_hosted.mp4). Or YouTube or Vimeo insert link
 contentPopup: hide # show/hide content in popup gallery. This option work if you use gallery.

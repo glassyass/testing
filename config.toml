@@ -56,9 +56,6 @@ categories = 1 #SIDEBAR CATEGORIES TAXONOMY WIDGET: [ 1 - yes, 0 - no ]
 tags = 1 #SIDEBAR TAG TAXONOMY WIDGET: [ 1 - yes, 0 - no ]
 
 
-[params.subscribe]
-subscribe = 1 #SIDEBAR SUBSCRIBE WIDGET: [ 1 - yes, 0 - no ]
-mailChimpURL = "https://formspree.io/f/xeoqayoq"  # Example MailChimp url: http://xxx.xxx.list-manage.com/subscribe/post?u=xxx&id=xxx
 
 # Portfolio Settings (Filter)
 [params.portfolio]

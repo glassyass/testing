@@ -2,9 +2,9 @@
 # preview details
 title:
 date: 2023-08-10T20:18:01+03:00
-category: Action-Sports
-category_slug: Action-Sports
-image: images/Kickflip.jpg
+category: Industrial
+category_slug: Industrial
+image: images/0V0A9733.jpg
 video: hide # show/hide video in popup gallery
 videoLink: "/video/big_buck_bunny.mp4" # This option work if you use gallery, Example url for self-hosted video (/video/self_hosted.mp4). YouTube or Vimeo is support link.
 contentPopup: hide # show/hide content in popup gallery. This option work if you use gallery.
@@ -40,11 +40,11 @@ gallery:
 # project description
 content:
   enable: true
-  text: "<p>.</p>"
+  text: "<p>Created, likeness bring which in stars herb a is give you’ll it life you’ll. Whose evening. Spirit subdue two don’t. Living, i divided was be every had. Him god. Don’t kind seed lesser heaven bearing waters seas in of earth female lights. Morning fruit may. May gathering moving fruit all them spirit dry place there appear they’re together.</p><p>Together had said given day spirit. Land years upon, created winged all. Dry, days for form dry moved gathering meat light whose abundantly fowl said our. Have green. Cattle. Called i that waters dry one said firmament his after their night. Likeness.</p>"
 
 # project details
 details:
-  enable: false
+  enable: true
   title: "PROJECT DETAILS"
   info:
     - label: Author
@@ -53,9 +53,14 @@ details:
     - label: Client
       value: Envato
 
-    - label: Pr
+    - label: Project date
+      value: 31 December 2023
+
+    - label: Project Location
+      value: California, USA
 
     - label: Website
       value: <a href="https://themeforest.net/user/mountain-themes" target="_blank">envato.com</a>
 
 ---
+
