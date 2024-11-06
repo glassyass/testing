@@ -4,7 +4,7 @@ title:
 date: 2023-08-10T20:18:01+03:00
 category: Action-Sports
 category_slug: Action-Sports
-image: images/195813401_770777160287447_2866696583769263367_n_17852286293551622.jpg
+image: images/207881600_112873671040960_2244762558617785773_n_17887653344185866.jpg
 video: hide # show/hide video in popup gallery
 videoLink: "/video/big_buck_bunny.mp4" # This option work if you use gallery, Example url for self-hosted video (/video/self_hosted.mp4). YouTube or Vimeo is support link.
 contentPopup: hide # show/hide content in popup gallery. This option work if you use gallery.
