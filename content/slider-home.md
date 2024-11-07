@@ -21,7 +21,7 @@ columnItem: "hide" # Column to a single media box
 boxesToLoadStart: 30 # The number of boxes to load when it first loads the grid
 boxesToLoad: 20 # The number of boxes to load when you click the load more button 
 portfolioType: "gallery" # "gallery" or "project"
-portfolioStyle: "alternative" # "classic", "minimal", "alternative" or "creative"
+portfolioStyle: "classic" # "classic", "minimal", "alternative" or "creative"
 gapHorizontal: 3 # Horizontal gap between items
 gapVertical: 3 # Vertical gap between items
 loadMoreButton: "show"
