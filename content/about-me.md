@@ -1,5 +1,5 @@
 ---
-title: Glacier - Home - About Me
+title: About Me
 builder: true
 
 # Content section

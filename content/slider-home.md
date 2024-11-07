@@ -1,5 +1,5 @@
 ---
-title: FrostFire Images - Home - Slider
+title: Portfolio
 builder: true
 
 # Content section
