@@ -1,5 +1,5 @@
 ---
-title: Glacier - Home - Pricing
+title: Shop
 builder: true
 
 # Content section
@@ -9,12 +9,14 @@ sections:
 
 # Configuration for sections
 
+
 # Parallax
-parallaxImage: images/parallax-7.jpg
-parallaxTitle: "pricing"
+parallaxImage: images/trytry.jpg
+parallaxTitle: "Shop"
 effectTitle: "none" # Full list effects you can find in documentation theme
 parallaxVideo: "hide" # Support YouTube and Vimeo video 
 parallaxVideoLink: "" # If "parallaxVideo" is "show"
+
 
 # Pricing
 noPadding: "show" # spacing for pricing section

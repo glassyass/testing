@@ -18,7 +18,7 @@
 
         {{ range .items }}
         <div class="col-md-4">
-        <div class="pricing-box">
+          <div class="pricing-box">
             <div class="card-header">
                 <h2 class="card-heading">{{ .title }}</h2>
                 {{ .text | safeHTML }}
@@ -32,9 +32,14 @@
                 </ul>
                 <hr>
                 <h3>{{ .price }}</h3>
-                <a href="{{ .buttonLink | absLangURL }}" class="pricing-button" rel="noopener">{{ .buttonText }}</a>
+
+                <!-- Gumroad Embed Code -->
+                <script src="https://gumroad.com/js/gumroad-embed.js"></script>
+                <div class="gumroad-product-embed">
+                    <a href="{{ .buttonLink }}">Buy Now</a>
+                </div>
             </div>
-        </div>
+          </div>
         </div>
         {{ end }}
 

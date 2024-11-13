@@ -9,6 +9,6 @@ contact:
 
   contactInformation:
     - title: "Email"
-      text: "<a href='mailto:'>Frostfireimages@outlook.com</a>"
+      text: <a href="mailto:Frostfireimages@outlook.com">Frostfireimages@outlook.com</a>
 
 

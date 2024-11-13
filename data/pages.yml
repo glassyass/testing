@@ -55,14 +55,14 @@ chat:
 ### Pricing [ pricingSection ]
 pricing:
   enable: true
-  title: "Choose a Plan That's Right for Your Business"
-  text: "<p>Behold him fourth let. Fowl fourth his years our a don't you'll his third own he very created won't tree form there created.</p>"
+  title: "Shop"
+  text: "<p> </p>"
   items:
-    - title: "Starter"
-      text: "<p>For teams that need to create sales plans with confidence.</p>"
-      price: "$0/MO"
+    - title: "Product 1"
+      text: "<p></p>"
+      price: "$50"
       buttonText: "Buy now"
-      buttonLink: "/contact-v1/"
+      buttonLink: "/https://frostfireimages.gumroad.com/l/leciq/"
       list:
       - title: "Ad management"
         icon: "fa-solid fa-check"
@@ -95,7 +95,7 @@ pricing:
       text: "<p>For teams that need to create sales plans with confidence.</p>"
       price: "$1200/MO"
       buttonText: "Buy now"
-      buttonLink: "/contact-v2/"
+      buttonLink: "/https://frostfireimages.gumroad.com/l/leciq/"
       list:
       - title: "Marketing automation"
         icon: "fa-solid fa-check"
@@ -128,7 +128,7 @@ pricing:
       text: "<p>For teams that need to create sales plans with confidence.</p>"
       price: "$3200/MO"
       buttonText: "Buy now"
-      buttonLink: "/contact-v3/"
+      buttonLink: "/https://frostfireimages.gumroad.com/l/leciq/"
       list:
       - title: "Content partitioning"
         icon: "fa-solid fa-check"

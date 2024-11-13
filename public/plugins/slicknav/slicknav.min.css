@@ -28,7 +28,7 @@
     right: 0;
     top: 0;
     text-decoration: none;
-    background-color: #000
+    background-color: rgba(255, 255, 255, 0)
 }
 
 .slicknav_btn .slicknav_icon-bar+.slicknav_icon-bar {
@@ -38,7 +38,7 @@
 .slicknav_menu .slicknav_menutxt {
     display: block;
     float: left;
-    color: #fff;
+    color: #000;
     font-family: Roboto,Helvetica,Arial,sans-serif;
     font-size: 13px;
     font-weight: 400;
@@ -60,7 +60,7 @@
     display: block;
     width: 17px;
     height: 2px;
-    background-color: #fff
+    background-color: #000
 }
 
 .slicknav_menu:after {
@@ -100,7 +100,7 @@
 }
 
 .slicknav_nav ul {
-    background: #000;
+    background: rgba(255, 255, 255, 0);
     padding: 15px
 }
 
@@ -123,13 +123,13 @@
 }
 
 .slicknav_nav li a:hover {
-    color: #fff;
+    color: #000;
     background: rgba(255,255,255,.1)
 }
 
 .slicknav_nav a {
     text-decoration: none;
-    color: #fff;
+    color: #000;
     outline: 0
 }
 

@@ -23,9 +23,9 @@ DefaultContentLanguage = "en" # Site language. Available translations in the the
     url = "/about-me-v2/"
     weight = 3
 [[menu.main]]
-    identifier = "blog-creative"
+    identifier = "pricing"
     name = "Shop"
-    url = "/blog-creative/"
+    url = "/pricing/"
     weight = 4
 [[menu.main]]
   identifier = "contact-v1"
@@ -36,7 +36,7 @@ DefaultContentLanguage = "en" # Site language. Available translations in the the
 
 # Main Settings
 [params]
-defaultLogo = "FrostFires"
+defaultLogo = "Transparent logo Alt Black.png"
 defaultKeywords = ["Photography", "Professional Photographer", "Art", "Action Sports Photography", "google analytics", "Action Sports", "Photography portfolio", "High quality Poster", "Landscapes", "Wildlife", "Skateboarding", "Frostfireimages"]
 defaultDescription = "Frost Fire Images"
 dateFormat = "January 2, 2006"

@@ -36,9 +36,9 @@ $default_size: 15px;
 /* Buttons & Forms */
 $button_font: "Noto Sans", sans-serif;
 $button_font_size: 13px;
-$button_text_color: #fff;
-$button_bg_color: #000000;
-$placeholder_color: #8e8e8e;
+$button_text_color: #000;
+$button_bg_color: #000;
+$placeholder_color: #00f;
 
 /* Menu */
 $menu_font: "Noto Sans", sans-serif;
@@ -47,11 +47,11 @@ $menu_letter_spacing: 2px;
 $menu_text_transform: uppercase;
 
 $menu_color: #000;
-$menu_border_color_hover: #000000;
+$menu_border_color_hover: #000;
 
 $submenu_font_size: 11px;
-$submenu_color: #fff;
-$submenu_bg_color: #000000;
+$submenu_color: #000;
+$submenu_bg_color: #000;
 
 /* Portfolio */
 $classic_style_overlay_bg_color: rgba(255, 255, 255, 0.9);
@@ -118,7 +118,7 @@ $pricing_box_button_bg_color: #000000;
 
 $accordion_box_color_border: #ededed;
 $accordion_box_bg_button_color: #000;
-$accordion_box_icon_color: #ffffff;
+$accordion_box_icon_color: #fff;
 
 $blog_slider_post_format_color_caption: rgba(0, 0, 0, 0.5);
 $blog_slider_post_format_bg_color_arrow: #000000;
@@ -133,7 +133,7 @@ $tags_bg_hover_color: #000;
 
 /* Google Map */
 $zoom_icon_bg_map: rgba(0, 0, 0, 0.7);
-$zoom_hover_icon_bg_map: #000000;
+$zoom_hover_icon_bg_map: #000;
 
 /* Contact */
 $input_border_contact: 1px solid #EDEDED;
