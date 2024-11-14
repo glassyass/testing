@@ -4,7 +4,7 @@ title:
 date: 2023-08-10T20:18:01+03:00
 category: Industrial
 category_slug: Industrial
-image: images/graf.jpeg
+image: images/0V0A9733.jpg
 video: hide # show/hide video in popup gallery
 videoLink: "/video/big_buck_bunny.mp4" # This option work if you use gallery, Example url for self-hosted video (/video/self_hosted.mp4). YouTube or Vimeo is support link.
 contentPopup: hide # show/hide content in popup gallery. This option work if you use gallery.

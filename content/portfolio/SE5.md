@@ -4,7 +4,7 @@ title:
 date: 2023-08-09T20:18:01+03:00
 category: Sponsored-Events
 category_slug: Sponsored-Events 
-image: images/firing.jpg
+image: images/monsterenergy.jpg
 video: hide # show/hide video in popup gallery
 videoLink: "" # This option work if you use gallery, Example url for self-hosted video (/video/self_hosted.mp4). Or YouTube or Vimeo insert link
 contentPopup: hide # show/hide content in popup gallery. This option work if you use gallery.
