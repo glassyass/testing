@@ -23,9 +23,9 @@ DefaultContentLanguage = "en" # Site language. Available translations in the the
     url = "/about-me-v2/"
     weight = 3
 [[menu.main]]
-    identifier = "pricing"
+    identifier = "services"
     name = "Shop"
-    url = "/pricing/"
+    url = "/services/"
     weight = 4
 [[menu.main]]
   identifier = "contact-v1"
