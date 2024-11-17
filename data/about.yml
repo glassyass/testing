@@ -21,7 +21,7 @@ experience:
       title: "Contests won"
       num: "32"
 
-### About Me [ AboutMeSection ]
+### about [ AboutMeSection ]
 aboutMe:
   enable: true
   profileImage: "/images/Logo v1 White.png"

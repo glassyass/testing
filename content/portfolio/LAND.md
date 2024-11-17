@@ -1,17 +1,18 @@
 ---
 # preview details
 title: 
-date: 2023-08-08T20:18:01+03:00
-category: Landscape
-category_slug: Landscape
-image: images/yaya.jpg
+date: 2023-08-09T20:18:01+03:00
+category: Landscapes
+category_slug: Landscapes 
+image: images/123.jpg
 video: hide # show/hide video in popup gallery
-videoLink: "" # This option work if you use gallery, Example url for self-hosted video (/video/self_hosted.mp4). YouTube or Vimeo is support link.
+videoLink: "" # This option work if you use gallery, Example url for self-hosted video (/video/self_hosted.mp4). Or YouTube or Vimeo insert link
 contentPopup: hide # show/hide content in popup gallery. This option work if you use gallery.
-columns: 2 # If you want a media box to be 1, 2 or 3 columns wide
+columns: 1 # If you want a media box to be 1, 2 or 3 columns wide
 
 # excerpt for alternative portfolio style
 excerpt: ""
+
 # configure for single page project
 
 # parallax
@@ -24,19 +25,21 @@ parallax:
   parallaxVideoLink: "" # Support YouTube and Vimeo video 
 
 # variant style project
-style: 3 # 1 to 4
+style: 2 # 1 to 4
 
 # gallery project
 gallery:
-  enable: false
+  enable: true
   columns: 1 # 1 to 3
   items:
-      - image: "/images/portfolio/portfolio-item-3.jpg"
+      - image: "/images/portfolio/portfolio-item-2.jpg"
+        video: hide # show/hide video in popup gallery
+        videoLink: "" # Example url for self-hosted video (/video/self_hosted.mp4). Or YouTube or Vimeo insert link
 
 # project description
 content:
   enable: true
-  text: "<p>Created, likeness bring which in stars herb a is give you’ll it life you’ll. Whose evening. Spirit subdue two don’t. Living, i divided was be every had. Him god. Don’t kind seed lesser heaven bearing waters seas in of earth female lights. Morning fruit may. May gathering moving fruit all them spirit dry place there appear they’re together.</p><p>Together had said given day spirit. Land years upon, created winged all. Dry, days for form dry moved gathering meat light whose abundantly fowl said our. Have green. Cattle. Called i that waters dry one said firmament his after their night. Likeness.</p><p class='text-center'><img src='/images/portfolio/portfolio-item-3.jpg' alt='dance'></p>"
+  text: "<p>Created, likeness bring which in stars herb a is give you’ll it life you’ll. Whose evening. Spirit subdue two don’t. Living, i divided was be every had. Him god. Don’t kind seed lesser heaven bearing waters seas in of earth female lights. Morning fruit may. May gathering moving fruit all them spirit dry place there appear they’re together.</p><p>Together had said given day spirit. Land years upon, created winged all. Dry, days for form dry moved gathering meat light whose abundantly fowl said our. Have green. Cattle. Called i that waters dry one said firmament his after their night. Likeness.</p>"
 
 # project details
 details:
@@ -50,7 +53,7 @@ details:
       value: Elon Musk
 
     - label: Project date
-      value: 15 December 2022
+      value: 10 December 2023
 
     - label: Project Location
       value: Melbourne, Australia

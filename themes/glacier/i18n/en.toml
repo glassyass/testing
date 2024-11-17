@@ -8,7 +8,7 @@ other = "Load more"
 other = "Load more"
 
 [noMoreEntriesWord]
-other = "No more"
+other = ""
 
 [readMore]
 other = "Read More"

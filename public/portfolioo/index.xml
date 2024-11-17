@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolioos on FrostFire Images</title>
+    <link>http://localhost:1313/portfolioo/</link>
+    <description>Recent content in Portfolioos on FrostFire Images</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Aug 2023 20:18:01 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/portfolioo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolioo/as10/</link>
+      <pubDate>Thu, 10 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolioo/as10/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolioo/as1/</link>
+      <pubDate>Wed, 09 Aug 2023 20:18:01 +0300</pubDate>
+      <guid>http://localhost:1313/portfolioo/as1/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

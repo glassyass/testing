@@ -16,7 +16,7 @@ effectTitle: "none" # Full list effects you can find in documentation theme
 parallaxVideo: "hide" # Support YouTube and Vimeo video 
 parallaxVideoLink: "" # If "parallaxVideo" is "show"
 
-# Portfolio
+# Portfolioo
 stretch: "hide" # Ultra wide portfolio, "show" or "hide"
 filter: "text-center" # Align filter "text-start", "text-center", "text-end" or "d-none"
 columns: 4 # It is the number of columns you wish to display in the grid

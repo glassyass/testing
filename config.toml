@@ -13,24 +13,24 @@ DefaultContentLanguage = "en" # Site language. Available translations in the the
 # Menu Settings
 [menu]
 [[menu.main]]
-    identifier = "slider-home"
-    name = "Portfolio"
-    url = "/slider-home/"
+    identifier = "Gallery"
+    name = "Gallery"
+    url = "/Gallery/"
   weight = 2
 [[menu.main]]
-    identifier = "about-me-v2"
-    name = "About"
-    url = "/about-me-v2/"
+    identifier = "Shop"
+    name = "Shop"
+    url = "/shop/"
     weight = 3
 [[menu.main]]
-    identifier = "services"
-    name = "Shop"
-    url = "/services/"
+    identifier = "about"
+    name = "About"
+    url = "/about/"
     weight = 4
 [[menu.main]]
-  identifier = "contact-v1"
+  identifier = "contact"
   name = "Contact"
-  url = "/contact-v1/"
+  url = "/contact/"
   weight = 5
  
 
