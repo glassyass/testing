@@ -1,6 +1,2 @@
-# Ignore .hugo_build.lock files (Hugo build lock files)
+
 .hugo_build.lock
-
-# Ignore macOS .DS_Store files (created by macOS Finder)
-.DS_Store
-
