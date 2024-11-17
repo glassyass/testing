@@ -167,11 +167,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/portfolio/frontpagelandscapes/</loc>
-    <lastmod>2023-08-10T20:18:01+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://localhost:1313/portfolio/indust10/</loc>
     <lastmod>2023-08-10T20:18:01+03:00</lastmod>
     <changefreq>monthly</changefreq>
