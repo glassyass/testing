@@ -2,7 +2,7 @@
 # preview details
 title: 
 date: 2023-08-09T20:18:01+03:00
-category: Nature
+category: Sponsored-Events
 category_slug: Sponsored-Events
 image: images/firebike.jpg
 video: hide # show/hide video in popup gallery

@@ -37,14 +37,12 @@
         <div class="col-md-12">
     {{ end }}
 
-        <!-- Portfolio Filter -->
-        <div class="portfolioFilter {{ .filter }}">
-            <div data-filter="*" class="selected filter-item">{{ i18n "all" }}</div>
-        {{ range $portfolio.filters }}
-        <div data-filter=".{{ .slug }}" class="filter-item">{{ .name }}</div>
-        {{ end }}
-
-        </div>
+<div class="portfolioFilter {{ .filter }}">
+    <div data-filter="*" class="selected filter-item">{{ i18n "all" }}</div>
+    {{ range $portfolio.filters }}
+    <div data-filter=".{{ .name }}" class="filter-item">{{ .name }}</div>
+    {{ end }}
+</div>
 
     <!-- Works Items -->
     <div id="portfolio" data-portfolio-style="{{.portfolioStyle}}"  data-columns="{{.columns}}" data-boxes-start="{{.boxesToLoadStart}}" data-boxes-load="{{.boxesToLoad}}" data-gap-horizontal="{{.gapHorizontal}}" data-gap-vertical="{{.gapVertical}}" data-load-more-word="{{ i18n "loadMoreWord" }}" data-loading-word="{{ i18n "LoadingWord" }}" data-no-more="{{ i18n "noMoreEntriesWord" }}">
