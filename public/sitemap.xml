@@ -2,136 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2023-08-25T20:16:14+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/blog/called-i-that-waters-dry-one/</loc>
-    <lastmod>2023-08-25T20:16:14+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2023-08-25T20:16:14+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/categories/development/</loc>
-    <lastmod>2023-08-25T20:16:14+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2023-08-25T20:16:14+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
-    <lastmod>2023-08-25T20:16:14+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2023-08-25T20:16:14+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/website/</loc>
-    <lastmod>2023-08-25T20:16:14+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/categories/creative/</loc>
-    <lastmod>2023-08-24T20:16:14+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/blog/fruit-so-open/</loc>
-    <lastmod>2023-08-24T20:16:14+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/blog/darkness-made-great/</loc>
-    <lastmod>2023-08-23T20:16:14+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/blog/together-had-said-given-day-spirit/</loc>
-    <lastmod>2023-08-22T20:16:14+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/golang/</loc>
-    <lastmod>2023-08-21T20:16:14+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/blog/spirit-subdue-two-dont/</loc>
-    <lastmod>2023-08-21T20:16:14+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/blog/post-format-standard/</loc>
-    <lastmod>2023-08-20T20:16:14+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/categories/post-format/</loc>
-    <lastmod>2023-08-20T20:16:14+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/programming/</loc>
-    <lastmod>2023-08-20T20:16:14+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/blog/post-format-quote/</loc>
-    <lastmod>2023-08-18T20:16:14+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/blog/post-format-link/</loc>
-    <lastmod>2023-08-17T20:16:14+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/blog/post-format-image/</loc>
-    <lastmod>2023-08-16T20:16:14+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/blog/post-format-slider/</loc>
-    <lastmod>2023-08-15T20:16:14+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/blog/post-format-gallery/</loc>
-    <lastmod>2023-08-14T20:16:14+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/blog/post-format-video-html5/</loc>
-    <lastmod>2023-08-13T20:16:14+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/blog/post-format-video-vimeo/</loc>
-    <lastmod>2023-08-12T20:16:14+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/blog/post-format-video-youtube/</loc>
-    <lastmod>2023-08-12T20:16:14+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/blog/post-format-audio/</loc>
-    <lastmod>2023-08-11T20:16:14+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://localhost:1313/portfolio/actionsportsmd/</loc>
     <lastmod>2023-08-10T20:18:01+03:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -277,6 +147,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2023-08-10T20:18:01+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/portfolio/</loc>
     <lastmod>2023-08-10T20:18:01+03:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -406,6 +281,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -419,6 +298,10 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/gallery/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
