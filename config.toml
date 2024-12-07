@@ -1,6 +1,6 @@
 # General Settings
 title = "FrostFire Images"
-baseURL = "https://frostfireimages.ca/"
+baseURL = "https://frostfireimages.ca"
 
 languageCode = "en-us"
 theme = "glacier"
@@ -15,22 +15,22 @@ DefaultContentLanguage = "en" # Site language. Available translations in the the
 [[menu.main]]
     identifier = "Gallery"
     name = "Gallery"
-    url = "/Gallery/"
+    url = "Gallery"
   weight = 2
 [[menu.main]]
     identifier = "Shop"
     name = "Shop"
-    url = "/shop/"
+    url = "Shop"
     weight = 3
 [[menu.main]]
     identifier = "about"
     name = "About"
-    url = "/about/"
+    url = "About"
     weight = 4
 [[menu.main]]
   identifier = "contact"
   name = "Contact"
-  url = "/contact/"
+  url = "Contact"
   weight = 5
  
 
