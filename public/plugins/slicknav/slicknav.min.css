@@ -90,7 +90,7 @@
 
 .slicknav_nav {
     color: #fff;
-    margin: 0;
+    margin: 100;
     width: 100%;
     display: block!important;
 }
@@ -101,9 +101,16 @@
 
 .slicknav_nav ul {
     background: rgba(255, 255, 255, 0);
-    padding: 15px
+    padding: 0 0155px
 }
-
+ .ec-cart-widget {
+       position: absolute;
+       top: 0;
+       right: 0!important;
+       margin-left: 0!important;
+       margin-top: 50px;
+       z-index: 1000;
+  }
 .slicknav_nav .slicknav_row,.slicknav_nav a {
     display: block;
     -webkit-transition: .3s ease-in-out;
