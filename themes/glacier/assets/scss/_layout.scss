@@ -358,6 +358,14 @@ header {
       margin-left: -50px;
       margin-bottom: 0px;
 
+     .ec-cart-widget {
+       position: absolute;
+       top: 0;
+       right: 0!important;
+       margin-left: 0!important;
+       margin-top: 50px;
+       z-index: 1000;
+  }
       img {
         height: auto;
         max-width: 250px !important;
