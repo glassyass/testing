@@ -1,5 +1,5 @@
 ---
-title: FrostFire Images
+title: Frostfire Images
 # Content section
 sections:
   - parallaxSection
