@@ -25,7 +25,7 @@ main_slider:
   enable: true
   slides:
     - title: ""
-      image: "/images/ok.jpg"
+      image: "/images/Slider4.jpg"
 
     - title: ""
       image: "/images/Slider1.jpg"
