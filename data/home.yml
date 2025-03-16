@@ -25,16 +25,16 @@ main_slider:
   enable: true
   slides:
     - title: ""
-      image: "/images/Slider4.jpg"
-
-    - title: ""
       image: "/images/Slider1.jpg"
-    
+
     - title: ""
       image: "/images/Slider2.jpg"
     
     - title: ""
       image: "/images/Slider3.jpg"
+    
+    - title: ""
+      image: "/images/Slider4.jpg"
 
 ### Content Slider [ contentSlider ]
 content_slider:
