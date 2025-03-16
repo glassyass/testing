@@ -28,13 +28,13 @@ main_slider:
       image: "/images/ok.jpg"
 
     - title: ""
-      image: "/images/poop.jpg"
+      image: "/images/Slider1.jpg"
     
     - title: ""
-      image: "/images/snow9.jpg"
+      image: "/images/Slider2.jpg"
     
     - title: ""
-      image: "/images/1.jpg"
+      image: "/images/Slider3.jpg"
 
 ### Content Slider [ contentSlider ]
 content_slider:
